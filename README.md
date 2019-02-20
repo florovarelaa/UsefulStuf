@@ -8,4 +8,9 @@ Just a Readme file with a list of useful libraries and packages
 
 
 *CSS:
+
   -https://uigradients.com Different gradients that can be copied.
+
+*Fonts:
+
+  -https://www.bootstrapcdn.com/fontawesome/
