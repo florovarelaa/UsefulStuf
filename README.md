@@ -10,6 +10,7 @@ Just a Readme file with a list of useful libraries and packages
 *CSS:
 
   -https://uigradients.com Different gradients that can be copied.
+  -https://flatuicolors.com/ Color Picker
 
 *Fonts:
 
